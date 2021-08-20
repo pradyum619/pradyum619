@@ -1,27 +1,17 @@
 ### Hi there 👋
 
-<!--
-**pradyum619/pradyum619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on  ...
-- 🌱 I’m currently learning python ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Hi 👋 I am Saurabh Sharma
 
-I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in, are Python, C++. I play cricket and design in photoshop. Also, I have just started tech-blogging! 
+Grown-up watching installation of WINDOWS XP using CDs, Since then eager to learn the internal working of technologies.
 
-- 👨🏽‍💻 Currently working in python, competitive coding, data structures and algorithms.
-- 🤝 Open for collaborations in deep learning, analytics and data science.
-- 😊 Willing to contribute in opensource projects.
-- 👍 Looking for opportunities to join as an intern/full time candidate in machine learning/deep learning research teams.
+Currently playing with:
+
+-🕸  (Web)HTML, CSS, JS, Node.js, ReactJS
+-☁  (Cloud)AWS, Azure
+-📱  (Mobile)Kotlin, Java, Android
+-💻 (OS)RedHat Rhel8, Windows 10
+-⚙  (Tools)Jenkins, Git, Docker, Ansible
+-🐙 (Other) Python, Shell scripting
 
 
 To connect with me,
