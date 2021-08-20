@@ -7,11 +7,11 @@ Grown-up watching installation of WINDOWS XP using CDs, Since then eager to lear
 Currently playing with:
 
 -🕸  (Web)HTML, CSS, JS, Node.js, ReactJS <br>
--☁  (Cloud)AWS, Azure
--📱  (Mobile)Kotlin, Java, Android
--💻 (OS)RedHat Rhel8, Windows 10
--⚙  (Tools)Jenkins, Git, Docker, Ansible
--🐙 (Other) Python, Shell scripting
+-☁  (Cloud)AWS, Azure <br>
+-📱  (Mobile)Kotlin, Java, Android <br>
+-💻 (OS)RedHat Rhel8, Windows 10 <br>
+-⚙  (Tools)Jenkins, Git, Docker, Ansible <br>
+-🐙 (Other) Python, Shell scripting <br>
 
 
 To connect with me,
