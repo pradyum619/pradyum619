@@ -1,6 +1,6 @@
-### Info Update in progress (This is old info)
-
 ### Hi there 👋
+
+### Info Update in progress (This is old info)
 
 ## Hi 👋 I am Saurabh Sharma
 
